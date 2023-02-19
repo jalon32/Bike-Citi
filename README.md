@@ -1,4 +1,4 @@
-## Citi- Bike
+## Citi-Bike
 Citi Bike is a bike sharing program in New York City that allows users to rent bikes from docking stations located throughout the city. The program was launched in 2013 and has since become a popular transportation option for both residents and tourists.
 ## Objective:
 Investigate the relationship between customer characteristics and trip duration in Citi Bike bike sharing program in NYC but also take a deep insight in the data specialy aspects, that could influence trip duration, using data from Sep-Oct 2013
